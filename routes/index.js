@@ -30,7 +30,7 @@ const bios = {
     photo: '/images/torres.png',
     background: 'Gustavo Torres é um cara que nasceu há uns 20/21 anos atrás, no Capão Redondo, gosta de rap, tocar violão e programar. Desde sempre fazendo história: tendo um nível de inglês razoável já aos 9 anos, passou em diversos processos seletivos para novas oportunidades, como um intercâmbio de férias, ganhar bolsa numa escola particular e, posteriormente, passar em algumas faculdades norte-americanas como MIT e Stanford, além de muitas outras grandes conquistas. Atualmente tem a Hike Academy, onde trabalha com o Jão e o Tutu e inspira, não só muita gente a aprender a programar, mas também alguns jovens, como eu, a se dedicarem ainda mais ao estudo e a transformar o mundo onde vivem. Com certeza um dos caras que mais me motiva e inspira a estudar e aprender cada vez mais!',
     quote: 'Voa monxtro!',
-    highlights: ['Passou em 5 universidades dos EUA', 'Escreveu a redação mais inspiradora em inglês', 'Ensina programação junto de mais dois amigos na Hike Academy', 'Me inspirou a melhorar o mundo em que eu vivo', 'Trabalhou na KhanAcademy', 'É um dos caras mais fod#s que eu conheço'],
+    highlights: ['Passou em 5 universidades dos EUA', 'Escreveu a redação mais inspiradora em inglês', 'Ensina programação junto de mais dois amigos na Hike Academy', 'Me inspirou a melhorar o mundo em que eu vivo', 'Trabalhou na KhanAcademy', 'É um dos caras mais maneiros que eu conheço'],
   },
 };
 
