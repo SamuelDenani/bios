@@ -32,6 +32,16 @@ const bios = {
     quote: 'Voa monxtro!',
     highlights: ['Passou em 5 universidades dos EUA', 'Escreveu a redação mais inspiradora em inglês', 'Ensina programação junto de mais dois amigos na Hike Academy', 'Me inspirou a melhorar o mundo em que eu vivo', 'Trabalhou na KhanAcademy', 'É um dos caras mais maneiros que eu conheço'],
   },
+  alanturing: {
+    name: 'Alan Mathison Turing',
+    role: 'Criptoanalista, matemático, lógico e pai da ciênica da computação',
+    birth: '1912',
+    death: '1954',
+    photo: '/images/alan-turing.png',
+    background: 'Alan Turing, nascido em Londres, filho de Julius Mathison Turing e Ethel Sara. Sempre gostou de teoremas e se interessava por computação antes mesmo dela existir. Suas primeiras respostas eram teóricas apenas. Criou a primeira máquina capaz de manipular símbolos e fazer operações automaticamente, sendo assim a primeira inteligência artificial também. Aplicava a computabilidade em tudo na sua vida e assim criou um teste capaz de dizer se um computador é dotado de inteligência artificial ou não. Em 1938 se uniu à inteligência britânica para a decodificação de mensagens para, assim, conseguir quebrar a criptografia da Máquina Enigma, uma máquina de criptografia de mensagens que mudava seus códigos diariamente, o que a tornava quase imbatível. EM 1939 começou a construção de uma máquina eletromecânica, a Bombe, para quebrar a criptografia das mensagens interceptadas. Em 1950 foi humilhado em público por sem homossexual e impedido de participar de qualquer pesquisa sobre computadores e aceitou tomar hormônios e se submeter à castração química como solução à prisão. Foi encontrado morto em 1954, supostamente havia se envenenado.',
+    quote: 'Nós só podemos ver um pouco do futuro, mas é o suficiente para perceber que há muito a fazer.',
+    highlights: ['Pai da ciência da computação', 'Ajudou a formalizar o conceito de algoritmo', 'Pioneiro na inteligência artifical', 'Criou a máquina de Turing', 'Chefiou a Hut 8', 'Criou o primeiro computador do Reino Unido'],
+  }
 };
 
 /* GET home page. */
